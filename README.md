@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Sama 👋
 
-<!--
-**alshapi11223-cmd/alshapi11223-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Student | Building smart solutions with code & creativity ✨
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence student passionate about turning ideas into real, useful technology.  
+I enjoy exploring **AI, software development, automation, and creative problem-solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Wander AI
+An AI-powered smart travel planner designed to make trip planning easier and more personalized.
+
+### 💳 Financial Twin
+A smart financial simulation experience that helps users explore financial decisions and future scenarios.
+
+### 🤖 AI Chatbot
+An intelligent chatbot project built to create an interactive and helpful conversational experience.
+
+---
+
+## 💻 Tech & Tools
+
+`Python` `HTML` `CSS` `JavaScript` `SQL`  
+`Git` `GitHub` `VS Code` `Google Colab` `MySQL`  
+`Figma` `AI Tools`
+
+---
+
+## 🌱 Currently Exploring
+
+- Artificial Intelligence & Machine Learning
+- Smart Automation
+- Software Development
+- Building creative AI-powered products
+
+---
+
+## 🎯 My Goal
+
+To keep learning, building, and transforming creative ideas into technology that makes a real impact.
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/sama-shabi-811a4b3a8) • [X](https://x.com/sama_shabi)
+
+---
+
+> **Curious mind. Creative ideas. Building with AI. ✨**
