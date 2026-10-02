@@ -9,13 +9,13 @@ I enjoy exploring **AI, software development, automation, and creative problem-s
 
 ## 🚀 Featured Projects
 
-### ✈️ Wander AI
+### ✈️ [Wander AI](https://github.com/alshapi11223-cmd/Wander-AI)
 An AI-powered smart travel planner designed to make trip planning easier and more personalized.
 
-### 💳 Financial Twin
+### 💳 [Financial Twin](https://github.com/alshapi11223-cmd/Financial-Twin)
 A smart financial simulation experience that helps users explore financial decisions and future scenarios.
 
-### 🎓 AI Career & Major Advisor
+### 🎓 [AI Career & Major Advisor](https://github.com/alshapi11223-cmd/AI-Career-Major-Advisor)
 An AI-powered educational chatbot that helps students explore suitable majors and build a personalized career development path.
 
 ---
