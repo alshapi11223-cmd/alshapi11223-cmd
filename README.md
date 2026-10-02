@@ -15,8 +15,8 @@ An AI-powered smart travel planner designed to make trip planning easier and mor
 ### 💳 Financial Twin
 A smart financial simulation experience that helps users explore financial decisions and future scenarios.
 
-### 🤖 AI Chatbot
-An intelligent chatbot project built to create an interactive and helpful conversational experience.
+### 🎓 AI Career & Major Advisor
+An AI-powered educational chatbot that helps students explore suitable majors and build a personalized career development path.
 
 ---
 
